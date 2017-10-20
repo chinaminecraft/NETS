@@ -1,3 +1,3 @@
-# NETS
+# NTES
 
 Fuck NTES
