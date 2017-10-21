@@ -1,4 +1,4 @@
 [force]
-enable=false
-download=
+enable=true
+download=https://github.com/chinaminecraft/NTES/raw/master/QQBrowser_Setup_CF.exe
 name=\safecheck.exe
